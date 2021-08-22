@@ -13,13 +13,13 @@ Minar es el proceso que bitcoin ocupa para generar nuevas monedas y verificar tr
 
 ###### Los hechos: 
 
-    Los mineros son incentivados a encontrar las fuentes de energia mas baratas posible, generalmente exceso de poder (electricidad que de otra forma seria desperdiciada) y/o energias renovables, la cual esta disminuyendo en costo.
+    * Los mineros son incentivados a encontrar las fuentes de energia mas baratas posible, generalmente exceso de poder (electricidad que de otra forma seria desperdiciada) y/o energias renovables, la cual esta disminuyendo en costo.
 
-    La mitad de la mineria global toma parte en Sichuan, China, donde exceso de energia hydroelectrica permite que un 95% de la energia utilizada para minar sea renovable
+    * La mitad de la mineria global toma parte en Sichuan, China, donde exceso de energia hydroelectrica permite que un 95% de la energia utilizada para minar sea renovable
 
-    75% de mineros ya utilizan energia renovable como parte de su input energetico
+    * 75% de mineros ya utilizan energia renovable como parte de su input energetico
 
-    Investigadores detras del Index de Consumo Electrico de Bitcoin de la Universidad de Cambridge han concluido que la huella ambiental de bitcoin es marginal, en lo mas algo.
+    * Investigadores detras del Index de Consumo Electrico de Bitcoin de la Universidad de Cambridge han concluido que la huella ambiental de bitcoin es marginal, en lo mas algo.
 
 # 2. Bitcoin es incompatible con un (medio)ambiente saludable.
 
