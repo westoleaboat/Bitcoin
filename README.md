@@ -9,7 +9,7 @@ A continuacion revisaremos los principales argumentos que tratan de desestimar a
 Para entender si verdaderamente bitcoin es uno de los principales actores del cambio climatico, debemos primero entender como funciona.
 Minar es el proceso que bitcoin ocupa para generar nuevas monedas y verificar transacciones. Montones de redes computacionales descentralizadas alrededor del mundo aseguran el correcto funcionamiento de cadena de bloques (historial virtual que documenta transacciones de criptomonedas). Como recompensa por contribuir al poder de procesamiento necesario de la red, los "mineros" reciben nuevas monedas, creando un circulo en el cual los mineros mantienen y aseguran la red de cadena de bloques, la cadena de bloques entrega una recompensa en forma de moneda, la cual incentiva a los mineros a mantener la cadena.
 
-# Minar en China llevara al descontrol del cambio climatico!?
+### Minar en China llevara al descontrol del cambio climatico!?
 
 #Los hechos: 
 
