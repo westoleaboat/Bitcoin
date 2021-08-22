@@ -4,14 +4,14 @@ A continuacion revisaremos los principales argumentos que tratan de desestimar a
 
 ### ESTOS ARGUMENTOS NO TOMAN MUCHO EN CUENTA QUE MILLONES DE INDIVIDUOS UTILIZAN BITCOIN COMO UNA HERRAMIENTA PARA ESCAPAR DE LA REPRESION MONETARIA, INFLACION O CONTROL CAPITAL ###
 
-1. Bitcoin es contribuidor importante al cambio climatico
+# 1. Bitcoin es contribuidor importante al cambio climatico
 
 Para entender si verdaderamente bitcoin es uno de los principales actores del cambio climatico, debemos primero entender como funciona.
 Minar es el proceso que bitcoin ocupa para generar nuevas monedas y verificar transacciones. Montones de redes computacionales descentralizadas alrededor del mundo aseguran el correcto funcionamiento de cadena de bloques (historial virtual que documenta transacciones de criptomonedas). Como recompensa por contribuir al poder de procesamiento necesario de la red, los "mineros" reciben nuevas monedas, creando un circulo en el cual los mineros mantienen y aseguran la red de cadena de bloques, la cadena de bloques entrega una recompensa en forma de moneda, la cual incentiva a los mineros a mantener la cadena.
 
 ### Minar en China llevara al descontrol del cambio climatico!?
 
-#Los hechos: 
+###### Los hechos: 
 
     Los mineros son incentivados a encontrar las fuentes de energia mas baratas posible, generalmente exceso de poder (electricidad que de otra forma seria desperdiciada) y/o energias renovables, la cual esta disminuyendo en costo.
 
@@ -21,7 +21,7 @@ Minar es el proceso que bitcoin ocupa para generar nuevas monedas y verificar tr
 
     Investigadores detras del Index de Consumo Electrico de Bitcoin de la Universidad de Cambridge han concluido que la huella ambiental de bitcoin es marginal, en lo mas algo.
 
-2. Bitcoin es incompatible con un (medio)ambiente saludable.
+# 2. Bitcoin es incompatible con un (medio)ambiente saludable.
 
 Como ambos criptomonedas y la "energia verde" maduran, el escenario mas probable es totalmente inverso. Los mineros de bitcoin son incentivados a ir donde el poder es mas barato. Mientras esto signifique el uso de combustible fosil en parte, la mejor manera para los mineros de aumentar sus ganancias es encontrar lugares con exceso de produccion energetica. Esto hace que bitcoin se posicione de manera efectiva para ayudar a hacer energias renovables mas baratas y accesible para todos.
 
