@@ -46,8 +46,8 @@ Ya que Bitcoin es relativamente nuevo, la idea que consuma tanta energia como No
 ##### Hechos:
 * La energia desperdiciada en electronicos inactivos mientras corren cada anho solamente en Estados Unidos podrian alimentar mineria de bitcoin por 1 anho imedio.
 * Se ha descubierto que Bitcoin consume bastante menos que otros sistemas financieros: La mitad que la industria minera del oro y menos de un quinto que las cadenas de banco y cajeros automaticos.
-* Las tecnologias cripto no consideran el impacto medioambiental
-* Como la criptomoneda mas grande, El Bitcoin se trata a menudo como una representación de todo el espacio de las criptomonedas. Como solo nos interesa Bitcoin.
 
+# 4. Las tecnologias cripto no consideran el impacto medioambiental
+Como la criptomoneda mas grande, El Bitcoin se trata a menudo como una representación de todo el espacio de las criptomonedas. 
 lee mas: 
 
