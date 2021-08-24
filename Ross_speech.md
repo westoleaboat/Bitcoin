@@ -6,7 +6,7 @@
 
 -Hola, soy Ross Ulbricht, estoy llamando desde prision. de una penitenciaria federal de maxima seguridad. No tenemos mucho tiempo, y no se si tendre otro chance
 de hablar con ustedes de esta manera. Voy a decir tanto como puedo, pero cuando se me acabe el tiempo, voy a colgar y volver a mi celda, he perdido mi libertad
-y de eso quiero hablar hoydia, quiero que entiendas que significa perder tu libertad. Pero primero hablemos de bitcoin. Yo estaba en los primeros dias de bitcoin
+y de eso quiero hablar hoydia, quiero que entiendas que significa perder tu libertad. Pero primero hablemos de bitcoin. Yo estaba en los comienzos de bitcoin
 bitcoin me hizo sentir que cualquier cosa era posible, bitcoin era abierto a todos. eso es lo que amo tanto sobre ello, era algo que igualaba el piso.
 cuando la idea de bitcoin verdaderamente hizo click en mi, me emocione mucho, con bitcoin puedo tratar de hacer algo que verdaderamente hace una diferencia.
 i por seacaso, antes que fuera puesto en prision, tenia todas estas diferentes criptomonedas y tokens y todo eso. y perdi todo. asi que para mi todo es una sola
