@@ -1,29 +1,39 @@
 Hola, soy Ross Ulbricht, estoy llamando desde prision, desde una penitenciaria federal de maxima seguridad. 
-No tenemos mucho tiempo, y no se si tendre otro chance de hablar con ustedes de esta manera. Voy a decir tanto como pueda, pero cuando se me acabe el tiempo, voy a colgar y volver a mi celda. 
+No tenemos mucho tiempo, y no se si tendre otro chance de hablar con ustedes de esta manera. Voy a decir tanto como pueda, pero cuando se me acabe el tiempo, voy a
+colgar y volver a mi celda. 
 
 He perdido mi libertad. De eso quiero hablar hoydia, quiero que ustedes entiendan que significa perder su libertad. 
 Pero primero hablemos de bitcoin. Yo estaba en los comienzos de bitcoin.
-En ese entonces, bitcoin me hizo sentir que cualquier cosa era posible, bitcoin era abierto, cierto? eso es lo que amo tanto sobre ello, era como algo que igualaba el nivel (para todos).
-cuando la idea de bitcoin realmente hizo clic en mi, me emocione mucho, pense, con bitcoin puedo tratar de hacer algo que en realidad hace una diferencia.
-Y por seacaso, antes de que fuera llevado a prision, no teaniamos todas estas diferentes criptomonedas y tokens y todo eso. me perdi todo. asi que para mi todo es una sola
-cosa, los forks (versiones modificadas de bitcoin), las nuevas cadena de bloques, todo. asi que cuando digo bitcoin, no hago distinciones, para mi, podria sonar un poco cursi, pero 
-para mi somos una gran familia, entonces, estaba emocionado en ese entonces, pero tambien muy impaciente, vi lo que bitcoin podia hacer por la libertad e igualdad.
-pero no me tome el tiempo para entender verdaderamente, no aprecie totalmente los principios en que se basa. cosas como inmutabilidad y consenso, y por supuesto, decentralizacion.
-tenia tantos suenos grandes para bitcoin, y lo que es mas hermoso, es que lentamente esos suenos estan haciendose realidad, eso es por ustedes, ustedes son quienes hacen esos suenos
-una realidad, ustedes estas haciendo lo que yo no tube la paciencia para hacer. 
-Por los pasados 8 anos en prision, una y otra ves he estado tan impresionado por que tan lejos hemos llegado, pero en ese 
-entonces fui impaciente, y apure mi idea que fue silk road (mercado online). silk road... fue un sitio web que hize cuando tenia 26 anos. mas de una decada atras. 
-Usaba Tor y bitcoin para proteger la privacidad de la gente. lo llame un mercado anonimo. en ese tiempo, vi que bitcoin hacia los pagos anonimos y privados. entonces, que estamos esperando?, porque estamos
-sentados hablando sobre eso. pongamoslo en accion. eso es impulsivo. eso es una persona de 26 anos que cree que tiene que salvar al mundo antes que alguien le gane.
-No tenia idea siesque silk road funcionaria, pero ahora todos sabemos que agarro vuelo. fue usado para verder drogas y ahora estoy en prision.
-me dieron 2 cadenas perpetuas, sin posibilidad de libertad condicional, mas 40 anos. Cometi un delito no violento por primera vez, y si nada cambia, voy a gastar las proximas decadas en esta jaula
-y luego mas tarde en este siglo me hare viejo y morire.
-Finalmente dejare la prision, pero en una bolsa para cadaveres.
-recibi una carta el otro dia. que era de alguien que no habia conocido antes, me daba las gracias, estaba agradecido por poner silk road en linea todos essos anos atras,
-el creia que bitcoin no seria lo que es hoy si no fuera por silk road. no estoy seguro.
-para mejor o peor, silk road es parte de la historia de bitcoin, pero me preocupa que al poner silk road en linea, hice las cosas mas dificles para nosotros. 
-no hay manera de saber como las cosas habrian sido de manera diferente, pero solo quiero decir, en la medida en que hice
-las cosas mas dificiles para nosotros. lo siento. 
+En ese entonces, bitcoin me hizo sentir que cualquier cosa era posible, bitcoin era abierto, cierto? eso es lo que amo tanto sobre ello, era como algo que igualaba
+el nivel (para todos).
+
+cuando la idea de bitcoin realmente hizo clic en mi, me emocione mucho, pense, con bitcoin puedo tratar de hacer algo que en realidad haga una diferencia.
+Y por seacaso, antes de que fuera llevado a prision, no teniamos todas estas diferentes criptomonedas y tokens y todo eso. me perdi todo. asi que para mi todo es 
+una sola cosa, los forks (versiones modificadas de bitcoin), las nuevas cadena de bloques, todo. asi que cuando digo bitcoin, no hago distinciones, 
+
+podria sonar un poco cursi, pero para mi somos una gran familia, entonces, estaba emocionado en ese entonces, pero tambien muy impaciente, vi lo que bitcoin podia
+hacer por la libertad e igualdad.
+
+pero no me tome el tiempo para entender verdaderamente, no aprecie totalmente los principios en que se basa. cosas como inmutabilidad y consenso, y por supuesto,
+decentralizacion. tenia tantos suenos grandes para bitcoin, y lo que es mas hermoso, es que lentamente esos suenos estan haciendose realidad, eso es por ustedes,
+ustedes son quienes hacen esos suenos una realidad, ustedes estas haciendo lo que yo no tube la paciencia para hacer. 
+
+Por los pasados 8 anos en prision, me he impresionado una y otra ves por que tan lejos hemos llegado, pero en ese entonces fui impaciente, y apure mi idea que fue 
+Silk Road (mercado online). Silk Road... fue un sitio web que hize cuando tenia 26 anos. mas de una decada atras. 
+
+Usaba Tor y bitcoin para proteger la privacidad de la gente. lo llame un mercado anonimo. en ese tiempo, vi que bitcoin hacia los pagos anonimos y privados.
+entonces, que estamos esperando?, porque estamos sentados hablando sobre eso. pongamoslo en accion. eso es impulsivo. eso es una persona de 26 anos que cree que 
+tiene que salvar al mundo antes que alguien le gane.
+
+No tenia idea si Silk Road funcionaria, pero ahora todos sabemos que agarro vuelo. fue usado para verder drogas y ahora estoy en prision.
+me dieron 2 cadenas perpetuas, sin posibilidad de libertad condicional, mas 40 anos. Cometi un delito no violento por primera vez, y si nada cambia, voy a gastar 
+las proximas decadas en esta jaula y luego mas tarde en este siglo me hare viejo y morire. Finalmente dejare la prision, pero en una bolsa para cadaveres.
+
+recibi una carta el otro dia. que era de alguien que no habia conocido antes, me daba las gracias, estaba agradecido por poner Silk Road en linea todos esos anos 
+atras, el creia que bitcoin no seria lo que es hoy si no fuera por Silk Road. no estoy seguro. para mejor o peor, Silk Road es parte de la historia de bitcoin, pero 
+me preocupa que al poner Silk Road en linea, hice las cosas mas dificles para nosotros. 
+
+no hay manera de saber como las cosas habrian sido diferentes, pero solo quiero decir, en la medida en que hice las cosas mas dificiles para nosotros. lo siento. 
 En las medidas que mis acciones dieron paso al abuso de drogas y adiccion, lo siento. 
 estaba tratando de hacer algo bueno,
 
