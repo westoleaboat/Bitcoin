@@ -1,6 +1,6 @@
 Hola, soy Ross Ulbricht, estoy llamando desde prision, desde una penitenciaria federal de maxima seguridad. 
-No tenemos mucho tiempo, y no se si tendre otro chance de hablar con ustedes de esta manera. Voy a decir tanto como pueda, pero cuando se me acabe el tiempo, voy a
-colgar y volver a mi celda. 
+No tenemos mucho tiempo, y no se si tendre otra oportunidad de hablar con ustedes de esta manera. Voy a decir tanto como pueda, pero cuando se me acabe el tiempo, 
+voy a colgar y volver a mi celda. 
 
 He perdido mi libertad. De eso quiero hablar hoydia, quiero que ustedes entiendan que significa perder su libertad. 
 Pero primero hablemos de bitcoin. Yo estaba en los comienzos de bitcoin.
@@ -114,9 +114,11 @@ nosotros no sabiamos como iban a resultar las cosas para bitcoin, pero tras los 
 orgulloso de ustedes, y no tengo dudas en que podemos hacer cualquier cosa que nos propongamos, estamos transformado la economia global, hemos traido una muestra de
 libertad e igualdad a lejanos rincones del mundo, yo se que podemos transformar la justicia criminal tambien. y ahora, hoydia, los desafio a poner su mirada en los 
 problemas mas dificiles, los desafio a que hagas brillar la luz de bitcoin en los rincones mas oscuros, los desafio a que nos liberen, he visto varios de mis amigos 
-ir a casa, despues de anos ,incluso decadas en prision, mas de uno supero una sentencia de vida, cada vez que sucede yo lloro de alegria, ver una persona reganar su libertad, verlos reunirse con su familia, no hay nada como ello. es tan hermoso que llega a doler, se siente como un milagro.
+ir a casa, despues de anos ,incluso decadas en prision, mas de uno supero una sentencia de vida, cada vez que sucede yo lloro de alegria, ver una persona reganar su 
+libertad, verlos reunirse con su familia, no hay nada como ello. es tan hermoso que llega a doler, se siente como un milagro.
 
-necesitamos mas milagros. tengo que irme pronto. no quiero irme. no quiero volver a esa celda, quiero estar alli para ustedes. esta llamada... han hecho tanto por mi hoydia, hablando hoy con ustedes es la mayor libertad que he sentido en un tiempo muy largo. gracias.
+necesitamos mas milagros. tengo que irme pronto. no quiero irme. no quiero volver a esa celda, quiero estar alli para ustedes. esta llamada... han hecho tanto por 
+mi hoydia, hablando hoy con ustedes es la mayor libertad que he sentido en un tiempo muy largo. gracias.
 gracias por darme su atencion, nunca olvidare este dia. nunca nos van a poder quitar la memoria de este dia.
 
 okay. me voy a ir ahora. gracias. adios. 
