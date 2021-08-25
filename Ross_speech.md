@@ -1,11 +1,6 @@
--Alo?
--Hola Ross es Peter de bitcoin magazine
--Estamos listos?
--Si
--Okay
-
--Hola, soy Ross Ulbricht, estoy llamando desde prision, desde una penitenciaria federal de maxima seguridad. 
+Hola, soy Ross Ulbricht, estoy llamando desde prision, desde una penitenciaria federal de maxima seguridad. 
 No tenemos mucho tiempo, y no se si tendre otro chance de hablar con ustedes de esta manera. Voy a decir tanto como pueda, pero cuando se me acabe el tiempo, voy a colgar y volver a mi celda. 
+
 He perdido mi libertad. De eso quiero hablar hoydia, quiero que ustedes entiendan que significa perder su libertad. 
 Pero primero hablemos de bitcoin. Yo estaba en los comienzos de bitcoin.
 En ese entonces, bitcoin me hizo sentir que cualquier cosa era posible, bitcoin estaba abierto para todos, cierto? eso es lo que amo tanto sobre ello, era como algo que igualaba el piso.
