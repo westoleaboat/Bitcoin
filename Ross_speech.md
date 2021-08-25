@@ -3,7 +3,7 @@ No tenemos mucho tiempo, y no se si tendre otro chance de hablar con ustedes de 
 
 He perdido mi libertad. De eso quiero hablar hoydia, quiero que ustedes entiendan que significa perder su libertad. 
 Pero primero hablemos de bitcoin. Yo estaba en los comienzos de bitcoin.
-En ese entonces, bitcoin me hizo sentir que cualquier cosa era posible, bitcoin estaba abierto para todos, cierto? eso es lo que amo tanto sobre ello, era como algo que igualaba el piso.
+En ese entonces, bitcoin me hizo sentir que cualquier cosa era posible, bitcoin era abierto, cierto? eso es lo que amo tanto sobre ello, era como algo que igualaba el nivel (para todos).
 cuando la idea de bitcoin realmente hizo clic en mi, me emocione mucho, pense, con bitcoin puedo tratar de hacer algo que en realidad hace una diferencia.
 Y por seacaso, antes de que fuera llevado a prision, no teaniamos todas estas diferentes criptomonedas y tokens y todo eso. me perdi todo. asi que para mi todo es una sola
 cosa, los forks (versiones modificadas de bitcoin), las nuevas cadena de bloques, todo. asi que cuando digo bitcoin, no hago distinciones, para mi, podria sonar un poco cursi, pero 
